@@ -73,16 +73,16 @@ print(df.head())
 | alpha.schule    | available | $19.99    | $41.99        | 90             | 53     | 5      | name.com             |
 | play.schule     | resell    | —         | —             | 104            | 47     | 4      | NameCheap, Inc.      |
 | air.schule      | premium   | $260      | $260          | 84             | 49     | 3      | namecheap            |
-| fast.schule     | available | $19.99    | $41.99        | 82             | 53     | 4      | name.com             |
-| elite.schule    | resell    | —         | —             | 90             | 43     | 5      | united-domains GmbH  |
-| travel.schule   | premium   | $1,040    | $1,040        | 115            | 48     | 6      | namecheap            |
 | true.schule     | available | $19.99    | $41.99        | 86             | 52     | 4      | name.com             |
+| elite.schule    | resell    | —         | —             | 90             | 42     | 5      | united-domains GmbH  |
+| travel.schule   | premium   | $1,040    | $1,040        | 115            | 48     | 6      | namecheap            |
+| fast.schule     | available | $19.99    | $41.99        | 82             | 52     | 4      | name.com             |
 | bank.schule     | resell    | —         | —             | 70             | 39     | 4      | Porkbun LLC          |
 | car.schule      | premium   | $42.90    | $42.90        | 94             | 46     | 3      | namecheap            |
-| security.schule | available | $32.98    | —             | 70             | 49     | 8      | namecheap            |
+| simple.schule   | available | $19.99    | $41.99        | 128            | 49     | 6      | name.com             |
 | pizza.schule    | resell    | —         | —             | 92             | 38     | 5      | Mesh Digital Limited |
 | map.schule      | premium   | $42.90    | $42.90        | 78             | 42     | 3      | namecheap            |
-| simple.schule   | available | $19.99    | $41.99        | 128            | 48     | 6      | name.com             |
+| security.schule | available | $32.98    | —             | 70             | 49     | 8      | namecheap            |
 | drift.schule    | resell    | —         | —             | 86             | 38     | 5      | InterNetX GmbH       |
 
 These rows are selected to show a more legible mix of visible asks, resale context, and status coverage from the exact live search.
