@@ -16,7 +16,7 @@ Daily-updated dataset of available and resale .schule one-word domains from Uniq
 
 **Public extract:** 9,742 rows · **Live catalog:** 9,742 domains
 
-**Last updated:** 2026-04-12  
+**Last updated:** 2026-04-13  
 **Canonical page:** `https://unique.domains/domains/tld/schule`  
 **Best for:** founders, investors, studios
 
@@ -67,10 +67,10 @@ print(df.head())
 | good.schule     | available | $19.99    | $41.99        | 82             | 55     | 4      | name.com             |
 | abc.schule      | resell    | —         | —             | 102            | 50     | 3      | united-domains GmbH  |
 | ace.schule      | premium   | $41.99    | $41.25        | 88             | 57     | 3      | name.com             |
-| alpha.schule    | available | $19.99    | $41.99        | 90             | 54     | 5      | name.com             |
+| zero.schule     | available | $19.99    | $41.99        | 112            | 53     | 4      | name.com             |
 | the.schule      | resell    | —         | —             | 98             | 50     | 3      | Sav.com, LLC - 27    |
 | one.schule      | premium   | $123.75   | $123.75       | 132            | 50     | 3      | name.com             |
-| zero.schule     | available | $19.99    | $41.99        | 112            | 53     | 4      | name.com             |
+| alpha.schule    | available | $19.99    | $41.99        | 90             | 53     | 5      | name.com             |
 | play.schule     | resell    | —         | —             | 104            | 47     | 4      | NameCheap, Inc.      |
 | air.schule      | premium   | $260      | $260          | 84             | 49     | 3      | namecheap            |
 | fast.schule     | available | $19.99    | $41.99        | 82             | 53     | 4      | name.com             |
@@ -143,7 +143,7 @@ See [CHANGELOG.md](./CHANGELOG.md) for the latest snapshot metadata.
 
 Suggested citation:
 
-> Unique Domains. *Available .SCHULE One-Word Domains*. Version 2026-04-12. Public GitHub extract for the exact Unique Domains search represented by this repository.
+> Unique Domains. *Available .SCHULE One-Word Domains*. Version 2026-04-13. Public GitHub extract for the exact Unique Domains search represented by this repository.
 
 GitHub citation metadata is available in [CITATION.cff](./CITATION.cff).
 
