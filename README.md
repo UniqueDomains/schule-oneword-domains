@@ -16,7 +16,7 @@ Daily-updated public extract of available and resale .schule one-word domains fr
 
 **Public extract:** 1,000 rows · **Live catalog:** 12,720 domains · **Median ask:** $21.85 · **High-demand under $2,500:** 0
 
-**Last updated:** 2026-05-15  
+**Last updated:** 2026-05-26  
 **Canonical page:** `https://unique.domains/domains/tld/schule`  
 **Best for:** founders, investors, studios
 
@@ -68,9 +68,9 @@ print(df.head())
 | etc.schule          | premium   | $123.75   | —             | 58             | 34     | 3      | name.com  |
 | cars.schule         | available | $19.99    | —             | 66             | 47     | 4      | name.com  |
 | robots.schule       | available | $19.99    | —             | 62             | 47     | 6      | name.com  |
+| whynot.schule       | available | $19.99    | —             | 74             | 44     | 7      | name.com  |
 | Ryan.schule         | available | $32.98    | —             | 60             | 44     | 4      | namecheap |
 | shortcuts.schule    | available | $19.99    | —             | 48             | 41     | 10     | name.com  |
-| whynot.schule       | available | $19.99    | —             | 74             | 39     | 7      | name.com  |
 | justin.schule       | available | $19.99    | —             | 58             | 38     | 7      | name.com  |
 | neuroscience.schule | available | $19.99    | —             | 80             | 37     | 12     | name.com  |
 | solutions.schule    | available | $19.99    | —             | 56             | 31     | 9      | name.com  |
@@ -142,7 +142,7 @@ See [CHANGELOG.md](./CHANGELOG.md) for the latest snapshot metadata.
 
 Suggested citation:
 
-> Unique Domains. *Available .SCHULE One-Word Domains*. Version 2026-05-15. Public GitHub extract for the exact Unique Domains search represented by this repository.
+> Unique Domains. *Available .SCHULE One-Word Domains*. Version 2026-05-26. Public GitHub extract for the exact Unique Domains search represented by this repository.
 
 GitHub citation metadata is available in [CITATION.cff](./CITATION.cff).
 
