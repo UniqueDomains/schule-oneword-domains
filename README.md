@@ -14,9 +14,9 @@ Daily-updated public extract of available and resale .schule one-word domains fr
 > **Important:** this repository is a **public 1,000-row extract**, not the full live catalog.
 > The full live catalog for this exact search currently contains **12,720 domains** on the canonical page below.
 
-**Public extract:** 1,000 rows · **Live catalog:** 12,720 domains · **Median ask:** $21.85 · **High-demand under $2,500:** 0
+**Public extract:** 1,000 rows · **Live catalog:** 12,720 domains · **Median ask:** $22.32 · **High-demand under $2,500:** 0
 
-**Last updated:** 2026-05-26  
+**Last updated:** 2026-06-04  
 **Canonical page:** `https://unique.domains/domains/tld/schule`  
 **Best for:** founders, investors, studios
 
@@ -62,28 +62,28 @@ print(df.head())
 
 ## 🗂️ Sample rows
 
-| domain              | status    | ask_price | renewal_price | attractiveness | demand | length | registrar |
-| ------------------- | --------- | --------- | ------------- | -------------- | ------ | ------ | --------- |
-| agents.schule       | available | $19.99    | —             | 56             | 50     | 6      | name.com  |
-| etc.schule          | premium   | $123.75   | —             | 58             | 34     | 3      | name.com  |
-| cars.schule         | available | $19.99    | —             | 66             | 47     | 4      | name.com  |
-| robots.schule       | available | $19.99    | —             | 62             | 47     | 6      | name.com  |
-| whynot.schule       | available | $19.99    | —             | 74             | 44     | 7      | name.com  |
-| Ryan.schule         | available | $32.98    | —             | 60             | 44     | 4      | namecheap |
-| shortcuts.schule    | available | $19.99    | —             | 48             | 41     | 10     | name.com  |
-| justin.schule       | available | $19.99    | —             | 58             | 38     | 7      | name.com  |
-| neuroscience.schule | available | $19.99    | —             | 80             | 37     | 12     | name.com  |
-| solutions.schule    | available | $19.99    | —             | 56             | 31     | 9      | name.com  |
-| slots.schule        | available | $19.99    | —             | 49             | 31     | 5      | name.com  |
-| videos.schule       | available | $19.99    | —             | 52             | 30     | 6      | name.com  |
-| commonground.schule | available | $19.99    | —             | 74             | 28     | 13     | name.com  |
-| gems.schule         | available | $19.99    | —             | 70             | 28     | 4      | name.com  |
-| brands.schule       | available | $19.99    | —             | 62             | 28     | 6      | name.com  |
-| KFC.schule          | available | $32.98    | —             | 74             | 27     | 3      | namecheap |
-| bees.schule         | available | $19.99    | —             | 54             | 27     | 4      | name.com  |
-| trades.schule       | available | $19.99    | —             | 71             | 26     | 6      | name.com  |
-| traders.schule      | available | $19.99    | —             | 60             | 26     | 7      | name.com  |
-| doctors.schule      | available | $19.99    | —             | 56             | 26     | 7      | name.com  |
+| domain            | status    | ask_price | renewal_price | attractiveness | demand | length | registrar |
+| ----------------- | --------- | --------- | ------------- | -------------- | ------ | ------ | --------- |
+| tide.schule       | available | $19.99    | —             | 92             | 26     | 4      | name.com  |
+| yeah.schule       | available | $19.99    | —             | 100            | 26     | 4      | name.com  |
+| canadian.schule   | available | $19.99    | —             | 88             | 25     | 8      | name.com  |
+| adequate.schule   | available | $19.99    | $41.99        | 94             | 11     | 8      | name.com  |
+| clay.schule       | available | $19.99    | —             | 80             | 35     | 4      | name.com  |
+| second.schule     | available | $19.99    | $41.99        | 120            | 29     | 6      | name.com  |
+| idea.schule       | premium   | —         | —             | 88             | 6      | 4      | —         |
+| biological.schule | available | $19.99    | —             | 92             | 8      | 10     | name.com  |
+| own.schule        | premium   | —         | —             | 122            | 24     | 3      | —         |
+| bid.schule        | premium   | $118.80   | $118.80       | 94             | 33     | 3      | namesilo  |
+| pony.schule       | available | $19.99    | —             | 86             | 30     | 4      | name.com  |
+| carnival.schule   | available | $19.99    | —             | 88             | 19     | 8      | name.com  |
+| sushi.schule      | available | $19.99    | —             | 84             | 31     | 5      | name.com  |
+| sports.schule     | available | $19.99    | —             | 110            | 47     | 6      | name.com  |
+| teamwork.schule   | available | $19.99    | —             | 82             | 20     | 8      | name.com  |
+| adoptable.schule  | premium   | —         | —             | 80             | 4      | 9      | —         |
+| crying.schule     | available | $19.99    | $41.99        | 82             | 9      | 6      | name.com  |
+| antiseptic.schule | available | $19.99    | —             | 88             | 4      | 10     | name.com  |
+| hanukah.schule    | available | $19.99    | —             | 80             | 2      | 7      | name.com  |
+| bust.schule       | available | $19.99    | —             | 102            | 10     | 4      | name.com  |
 
 These rows are selected to show a more legible mix of visible asks, resale context, and status coverage from the exact live search.
 
@@ -142,7 +142,7 @@ See [CHANGELOG.md](./CHANGELOG.md) for the latest snapshot metadata.
 
 Suggested citation:
 
-> Unique Domains. *Available .SCHULE One-Word Domains*. Version 2026-05-26. Public GitHub extract for the exact Unique Domains search represented by this repository.
+> Unique Domains. *Available .SCHULE One-Word Domains*. Version 2026-06-04. Public GitHub extract for the exact Unique Domains search represented by this repository.
 
 GitHub citation metadata is available in [CITATION.cff](./CITATION.cff).
 
