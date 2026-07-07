@@ -14,10 +14,10 @@ Daily-updated public extract of available and resale .schule one-word domains fr
 > **Important:** this repository is a **public 1,000-row extract**, not the full live catalog.
 > The full live catalog for this exact search currently contains **12,720 domains** on the canonical page below.
 
-**Public extract:** 1,000 rows · **Live catalog:** 12,720 domains · **Median ask:** $22.32 · **High-demand under $2,500:** 0
+**Public extract:** 1,000 rows · **Live catalog:** 12,720 domains · **Median ask:** $22.31 · **High-demand under $2,500:** 0
 
-**Last updated:** 2026-06-04  
-**Canonical page:** `https://unique.domains/domains/tld/schule`  
+**Last updated:** 2026-07-07
+**Canonical page:** `https://unique.domains/domains/tld/schule`
 **Best for:** founders, investors, studios
 
 ---
@@ -43,13 +43,13 @@ This repository is the public extract for Unique Domains' .SCHULE one-word domai
 
 ### Files
 
-- `schule.csv` — public CSV extract (1,000 rows)
-- `schule.json` — public JSON extract (1,000 rows)
-- `DATA_DICTIONARY.md` — field definitions for the exported files
-- `METHODOLOGY.md` — scope, refresh policy, and caveats
-- `CHANGELOG.md` — latest snapshot metadata
-- `CITATION.cff` — machine-readable dataset citation metadata
-- `LICENSE` — terms for the public extract
+- `schule.csv`, public CSV extract (1,000 rows)
+- `schule.json`, public JSON extract (1,000 rows)
+- `DATA_DICTIONARY.md`, field definitions for the exported files
+- `METHODOLOGY.md`, scope, refresh policy, and caveats
+- `CHANGELOG.md`, latest snapshot metadata
+- `CITATION.cff`, machine-readable dataset citation metadata
+- `LICENSE`, terms for the public extract
 
 ## 🧭 Quick start
 
@@ -62,28 +62,28 @@ print(df.head())
 
 ## 🗂️ Sample rows
 
-| domain            | status    | ask_price | renewal_price | attractiveness | demand | length | registrar |
-| ----------------- | --------- | --------- | ------------- | -------------- | ------ | ------ | --------- |
-| tide.schule       | available | $19.99    | —             | 92             | 26     | 4      | name.com  |
-| yeah.schule       | available | $19.99    | —             | 100            | 26     | 4      | name.com  |
-| canadian.schule   | available | $19.99    | —             | 88             | 25     | 8      | name.com  |
-| adequate.schule   | available | $19.99    | $41.99        | 94             | 11     | 8      | name.com  |
-| clay.schule       | available | $19.99    | —             | 80             | 35     | 4      | name.com  |
-| second.schule     | available | $19.99    | $41.99        | 120            | 29     | 6      | name.com  |
-| idea.schule       | premium   | —         | —             | 88             | 6      | 4      | —         |
-| biological.schule | available | $19.99    | —             | 92             | 8      | 10     | name.com  |
-| own.schule        | premium   | —         | —             | 122            | 24     | 3      | —         |
-| bid.schule        | premium   | $118.80   | $118.80       | 94             | 33     | 3      | namesilo  |
-| pony.schule       | available | $19.99    | —             | 86             | 30     | 4      | name.com  |
-| carnival.schule   | available | $19.99    | —             | 88             | 19     | 8      | name.com  |
-| sushi.schule      | available | $19.99    | —             | 84             | 31     | 5      | name.com  |
-| sports.schule     | available | $19.99    | —             | 110            | 47     | 6      | name.com  |
-| teamwork.schule   | available | $19.99    | —             | 82             | 20     | 8      | name.com  |
-| adoptable.schule  | premium   | —         | —             | 80             | 4      | 9      | —         |
-| crying.schule     | available | $19.99    | $41.99        | 82             | 9      | 6      | name.com  |
-| antiseptic.schule | available | $19.99    | —             | 88             | 4      | 10     | name.com  |
-| hanukah.schule    | available | $19.99    | —             | 80             | 2      | 7      | name.com  |
-| bust.schule       | available | $19.99    | —             | 102            | 10     | 4      | name.com  |
+| domain     | status    | ask_price | renewal_price | attractiveness | demand | length | registrar |
+| ---------- | --------- | --------- | ------------- | -------------- | ------ | ------ | --------- |
+| ask.schule | available | $19.99    | —             | high           | medium | 3      | name.com  |
+| act.schule | premium   | $118.80   | $118.80       | high           | low    | 3      | namesilo  |
+| con.schule | available | $19.99    | —             | high           | low    | 3      | name.com  |
+| are.schule | premium   | $38.94    | $38.94        | high           | low    | 3      | namesilo  |
+| did.schule | available | $19.99    | —             | high           | low    | 3      | name.com  |
+| bar.schule | premium   | $38.94    | $38.94        | high           | low    | 3      | namesilo  |
+| far.schule | available | $19.99    | —             | high           | low    | 3      | name.com  |
+| bid.schule | premium   | $118.80   | $118.80       | high           | low    | 3      | namesilo  |
+| him.schule | available | $19.99    | —             | high           | low    | 3      | name.com  |
+| bot.schule | premium   | $123.75   | —             | high           | medium | 3      | name.com  |
+| ing.schule | available | $19.99    | —             | medium         | low    | 3      | name.com  |
+| dot.schule | premium   | $118.80   | $118.80       | high           | medium | 3      | namesilo  |
+| jar.schule | available | $19.99    | —             | high           | low    | 3      | name.com  |
+| hey.schule | premium   | $41.99    | —             | medium         | medium | 3      | name.com  |
+| mao.schule | available | $19.99    | —             | medium         | low    | 3      | name.com  |
+| jot.schule | premium   | $118.80   | $118.80       | high           | low    | 3      | namesilo  |
+| new.schule | available | $19.99    | —             | high           | medium | 3      | name.com  |
+| lot.schule | premium   | $38.94    | $38.94        | medium         | low    | 3      | namesilo  |
+| NWO.schule | available | $19.99    | —             | medium         | low    | 3      | name.com  |
+| mon.schule | premium   | $41.99    | —             | high           | low    | 3      | name.com  |
 
 These rows are selected to show a more legible mix of visible asks, resale context, and status coverage from the exact live search.
 
@@ -105,27 +105,27 @@ If this sample already feels useful, Unique Domains is where the exact search be
 
 ## 🧱 Field summary
 
-- `domain` — Fully qualified domain name.
-- `status` — Current acquisition state for the domain in the public extract.
-- `purchase_price` — Visible purchase price when available.
-- `renewal_price` — Visible renewal price when available.
-- `attractiveness` — Composite naming score used as a decision-support signal.
-- `demand` — Relative buyer-pressure score when available.
-- `length` — Character count without the TLD.
-- `registrar` — Registrar name when known.
-- `created_at` — Creation timestamp when known.
-- `expires_at` — Expiry timestamp when known.
+- `domain`, Fully qualified domain name.
+- `status`, Current acquisition state for the domain in the public extract.
+- `purchase_price`, Visible purchase price when available.
+- `renewal_price`, Visible renewal price when available.
+- `attractiveness`, Public composite naming band used as a decision-support signal.
+- `demand`, Public buyer-pressure band when available.
+- `length`, Character count without the TLD.
+- `registrar`, Registrar name when known.
+- `created_at`, Creation timestamp when known.
+- `expires_at`, Expiry timestamp when known.
 
 See [DATA_DICTIONARY.md](./DATA_DICTIONARY.md) for full definitions and types.
 
 ## ⚠️ Methodology and caveats
 
-This selection is made up entirely of one-word .schule domains. The words range from broad and simple, such as idea.schule and own.schule, to more descriptive options like biological.schule and canadian.schule. That makes the set relevant for both buyers seeking a low-entry naming opportunity and founders who want a direct, category-linked brand. When comparing these domains, start with whether the word reads naturally with .schule, whether it is easy to say and remember, and whether the ask price fits your budget over time. Generic words can feel broad and flexible, while more specific words can signal narrower use and more limited brand range.
+This list covers one-word and short compound domain names registered under the .schule extension, an alternative to .com that keeps many desirable names available at low cost. Names like FabFour.schule, GearUp.schule, and Messages.schule show the mix of everyday words, brandable combinations, and playful phrases found across this set. With a median ask near $22, these domains offer a low entry point for founders shortlisting a name and for anyone comparing pricing across a large pool of one-word options.
 
-- Check if the word fits naturally with the .schule ending
-- Prefer clear, easy words like idea, clay, or second
-- Use the 21.85 median ask as a rough pricing reference
-- Avoid words that feel awkward, narrow, or hard to explain
+- 12,720 one-word .schule domains in this selection
+- Median asking price near $22 across the list
+- Includes short names like FabFour, GearUp, JollyRoger
+- Compare pricing and renewal before you commit
 
 See [METHODOLOGY.md](./METHODOLOGY.md) for the full methodology reference.
 
@@ -142,7 +142,7 @@ See [CHANGELOG.md](./CHANGELOG.md) for the latest snapshot metadata.
 
 Suggested citation:
 
-> Unique Domains. *Available .SCHULE One-Word Domains*. Version 2026-06-04. Public GitHub extract for the exact Unique Domains search represented by this repository.
+> Unique Domains. *Available .SCHULE One-Word Domains*. Version 2026-07-07. Public GitHub extract for the exact Unique Domains search represented by this repository.
 
 GitHub citation metadata is available in [CITATION.cff](./CITATION.cff).
 
