@@ -16,7 +16,7 @@ Daily-updated public extract of available and resale .schule one-word domains fr
 
 **Public extract:** 1,000 rows · **Live catalog:** 32,051 domains · **Median ask:** $25.00 · **High-demand under $2,500:** 3
 
-**Last updated:** 2026-09-23
+**Last updated:** 2026-09-24
 **Canonical page:** `https://unique.domains/domains/tld/schule`
 **Best for:** founders, investors, studios
 
@@ -67,6 +67,7 @@ print(df.head())
 | own.schule    | available | —         | —             | high           | low    | 3      | —         |
 | steady.schule | available | $19.99    | —             | high           | low    | 6      | name.com  |
 | score.schule  | available | $19.99    | —             | high           | low    | 5      | name.com  |
+| front.schule  | available | $19.99    | —             | high           | low    | 5      | name.com  |
 | ask.schule    | available | $19.99    | —             | high           | medium | 3      | name.com  |
 | act.schule    | premium   | $118.80   | $118.80       | high           | low    | 3      | namesilo  |
 | con.schule    | available | $19.99    | —             | high           | low    | 3      | name.com  |
@@ -76,14 +77,13 @@ print(df.head())
 | far.schule    | available | $19.99    | —             | high           | low    | 3      | name.com  |
 | bid.schule    | premium   | $118.80   | $118.80       | high           | low    | 3      | namesilo  |
 | him.schule    | available | $19.99    | —             | high           | low    | 3      | name.com  |
-| bot.schule    | premium   | $123.75   | —             | high           | medium | 3      | name.com  |
+| bot.schule    | premium   | $118.80   | $118.80       | medium         | low    | 3      | namesilo  |
 | ing.schule    | available | $19.99    | —             | medium         | low    | 3      | name.com  |
 | dot.schule    | premium   | $118.80   | $118.80       | medium         | low    | 3      | namesilo  |
 | jar.schule    | available | $19.99    | —             | high           | low    | 3      | name.com  |
 | hey.schule    | premium   | $41.99    | —             | medium         | medium | 3      | name.com  |
 | mao.schule    | available | $19.99    | —             | medium         | low    | 3      | name.com  |
 | jot.schule    | premium   | $118.80   | $118.80       | high           | low    | 3      | namesilo  |
-| new.schule    | available | $19.99    | —             | high           | medium | 3      | name.com  |
 
 These rows are selected to show a more legible mix of visible asks, resale context, and status coverage from the exact live search.
 
@@ -144,7 +144,7 @@ See [CHANGELOG.md](./CHANGELOG.md) for the latest snapshot metadata.
 
 Suggested citation:
 
-> Unique Domains. *Available .SCHULE One-Word Domains*. Version 2026-09-23. Public GitHub extract for the exact Unique Domains search represented by this repository.
+> Unique Domains. *Available .SCHULE One-Word Domains*. Version 2026-09-24. Public GitHub extract for the exact Unique Domains search represented by this repository.
 
 GitHub citation metadata is available in [CITATION.cff](./CITATION.cff).
 

@@ -24,7 +24,7 @@ ec1180f6-97de-436f-b569-c6083046887f,quivive.schule,available,19.99,41.99,low,lo
 2901d540-99b0-4d2c-b40a-275ab1cb54db,wheretheheck.schule,available,19.99,,low,low,14,name.com,,,
 caf7a474-e862-4727-8b22-2ece8a4d51a6,undynamic.schule,available,19.99,41.99,low,low,9,name.com,,,
 d126a3d2-8c3c-4ab0-a6e3-a4b6075aa240,energizing.schule,available,19.99,41.99,medium,low,10,name.com,,,
-d1ceaff1-5a0b-4055-a534-b6bdaa35362c,final.schule,available,19.99,41.99,high,low,5,name.com,,,
+d1ceaff1-5a0b-4055-a534-b6bdaa35362c,final.schule,available,19.99,41.99,medium,low,5,name.com,,,23/09/2026 19:07
 8af0be34-81e6-4273-bc9c-aba3fa035de1,deadline.schule,available,19.99,,high,low,8,name.com,,,
 94fae08f-d24b-45a4-8b03-356af8af597a,stops.schule,available,19.99,,high,low,5,name.com,,,
 16190a39-2f69-458e-a022-96f41d278ca8,alar.schule,available,19.99,41.99,low,low,4,name.com,,,
@@ -49,7 +49,7 @@ c84160bd-bd37-4fe1-af1b-9a383ca3ab44,restaurant.schule,available,19.99,,high,low
 9c86043c-9527-4536-8c2f-6e4f23fa4e4f,areal.schule,available,19.99,41.99,low,low,5,name.com,,,06/08/2026 17:21
 924f3c3c-9437-4005-a3eb-34e08786dc8b,write.schule,available,19.99,,high,low,5,name.com,,,
 5cfe4d34-79aa-4865-a586-3310d4edcc82,jersey.schule,available,,,high,low,6,,,,
-ed76b244-4cfe-4e06-993c-8eedc0c52036,immediate.schule,available,19.99,41.99,high,low,9,name.com,,,
+ed76b244-4cfe-4e06-993c-8eedc0c52036,immediate.schule,available,28.99,28.99,medium,low,9,namesilo,,,23/09/2026 22:04
 1c576ed2-21dc-4977-8240-a51a544fe0b4,keep.schule,available,19.99,,high,low,4,name.com,,,
 7c1f9509-cdf6-4c6d-a9fe-ee6b18559a2b,east.schule,available,19.99,41.99,high,low,4,name.com,,,
 7888a76b-6b8b-4e54-9917-12534bf9eef8,noway.schule,available,19.99,,medium,low,6,name.com,,,
@@ -70,7 +70,7 @@ d7ae9013-5ce7-4696-9060-0e6e504ec2b3,peaceful.schule,available,19.99,,high,low,8
 5dc3265e-0b55-409f-a519-94d826fac9fd,hover.schule,available,19.99,,medium,low,5,name.com,,,
 7487af99-9f37-42c4-a1f1-f1e07f0a6b30,irrelevant.schule,available,19.99,,medium,low,10,name.com,,,
 d9efb830-4cef-4b7d-866d-01ea77709365,anoxic.schule,available,19.99,41.99,low,low,6,name.com,,,
-6b0786a9-2577-44a7-ab1c-c4c1f3b1f42f,large.schule,available,28.99,28.99,medium,low,5,namesilo,,,19/09/2026 10:18
+6b0786a9-2577-44a7-ab1c-c4c1f3b1f42f,large.schule,available,28.99,28.99,medium,low,5,namesilo,,,23/09/2026 09:13
 daf8a9a0-64ba-4fd2-9453-80d3c91b9c5a,amiss.schule,available,19.99,41.99,low,low,5,name.com,,,
 e517e229-2266-479e-b7b4-b9f847d823fa,actiondoll.schule,available,19.99,,high,low,11,name.com,,,
 a24909d6-5a08-4ede-ab5f-6fb6f79ad76a,generally.schule,available,19.99,,medium,low,9,name.com,,,
@@ -86,7 +86,7 @@ c49fef34-0d38-4df3-80de-b6500c9d9581,female.schule,available,19.99,41.99,high,lo
 1c2e429e-38f1-4e8f-8979-02dd50b7d5ad,alimental.schule,available,19.99,41.99,low,low,9,name.com,,,
 605da6a0-3b5a-4c97-acef-7d0c73466c03,anurous.schule,available,19.99,41.99,low,low,7,name.com,,,05/08/2026 21:27
 627fed32-f216-4232-aa3b-a4236e4b50af,access.schule,available,28.99,28.99,medium,low,6,namesilo,,,19/09/2026 12:18
-8cc1d635-67aa-4174-bd53-94ba786c63c8,insulting.schule,available,19.99,41.99,high,low,9,name.com,,,
+8cc1d635-67aa-4174-bd53-94ba786c63c8,insulting.schule,available,29.98,32.98,low,low,9,namecheap,,,23/09/2026 21:52
 a15df4d3-bdd7-475e-9c02-339bfb9cea0e,flee.schule,available,19.99,,medium,low,4,name.com,,,
 a20a8eed-e722-4dab-a2a4-d14c99bd006b,laborious.schule,available,19.99,41.99,low,low,9,name.com,,,06/08/2026 17:00
 9c3cabca-434d-4cf3-b858-fe851402e479,baggy.schule,available,28.99,28.99,low,low,5,namesilo,,,22/09/2026 16:21
@@ -99,7 +99,7 @@ dd940b7c-e6d1-4d96-b077-de7618e9eb2b,sunday.schule,available,19.99,,high,low,6,n
 384cbffb-7c79-4a3f-a0b0-90ddfbc35c56,said.schule,available,19.99,,high,low,4,name.com,,,
 5fa6d5b3-8a95-4b37-b41c-e3d78d9cece1,goto.schule,available,19.99,,medium,medium,5,name.com,,,
 3e2c14ab-ce32-44a6-a796-3803f53b3b11,provisions.schule,available,28.99,28.99,medium,low,10,namesilo,,,08/09/2026 08:15
-886e30b7-77cd-4975-967f-53894487cf62,bulky.schule,available,19.99,,medium,low,5,name.com,,,
+886e30b7-77cd-4975-967f-53894487cf62,bulky.schule,available,28.99,28.99,low,low,5,namesilo,,,23/09/2026 10:36
 b23a56fe-1607-4586-aa70-79597e39647b,too.schule,premium,118.8,118.8,high,low,3,namesilo,,,
 ebe3ff27-e130-4335-adec-c294dc548574,subjects.schule,available,19.99,,low,low,8,name.com,,,
 71b0ab5e-9596-4c25-9f12-4116f0d0add4,heckno.schule,available,19.99,,high,low,7,name.com,,,
@@ -112,9 +112,9 @@ f23654eb-c27a-4210-a48a-9dab5e89597a,wrecked.schule,available,19.99,,medium,low,
 37f80b60-9073-4e87-9588-cd915208745e,nurse.schule,available,19.99,,medium,low,5,name.com,,,
 6b286651-38f1-4e81-9f67-bd872882b795,lowercase.schule,available,19.99,,high,low,9,name.com,,,
 0603dc5c-4ae1-4891-910a-a109dd4d7f18,citizen.schule,available,19.99,,high,low,7,name.com,,,
-e3196339-f799-40e5-befa-8f10e96eebc4,odd.schule,premium,41.99,41.25,high,low,3,name.com,,,
+e3196339-f799-40e5-befa-8f10e96eebc4,odd.schule,premium,38.94,38.94,low,low,3,namesilo,,,24/09/2026 03:59
 5aac96c4-1be0-401c-a7ba-5999d2d719cd,unexpected.schule,available,19.99,,high,low,10,name.com,,,
-973e7600-76d0-43c8-8e9f-67793e73bf4b,lover.schule,available,19.99,,high,low,5,name.com,,,
+973e7600-76d0-43c8-8e9f-67793e73bf4b,lover.schule,available,28.99,28.99,medium,low,5,namesilo,,,23/09/2026 10:15
 725230fd-17c7-4d35-a85b-6e7e4e7121ab,more.schule,available,19.99,,high,medium,4,name.com,,,
 51f9ec54-0564-480e-a22d-b46c64d25e3f,goalong.schule,available,19.99,,high,low,8,name.com,,,
 471ac6ad-c03e-4327-a582-efdb5330a8b9,barreled.schule,available,19.99,41.99,low,low,8,name.com,,,08/08/2026 20:46
@@ -132,7 +132,7 @@ e582f530-3477-4d06-8233-fea7d55c34ac,hitup.schule,available,19.99,,high,low,6,na
 d0eef722-3aa4-4f0a-932a-43612248d93b,apocryphal.schule,available,19.99,41.99,low,low,10,name.com,,,06/08/2026 01:11
 61842c42-a02e-4817-9f42-0e3696a4283f,indisposed.schule,available,19.99,41.99,low,low,10,name.com,,,
 3895aa61-b99b-4e63-a346-2c13de4baf4e,springfor.schule,available,19.99,,low,low,10,name.com,,,
-5d76f45a-fabc-413c-bdd3-d180b553b19a,dirty.schule,available,19.99,41.99,high,low,5,name.com,,,
+5d76f45a-fabc-413c-bdd3-d180b553b19a,dirty.schule,available,29.98,32.98,low,low,5,namecheap,,,23/09/2026 21:45
 adbdd402-8444-4903-9940-33a284eb8058,fascinating.schule,available,19.99,,high,low,11,name.com,,,
 78809eeb-5029-4b0f-9a46-2572988253da,philanthropic.schule,available,19.99,,high,low,13,name.com,,,
 cc19d4a8-42a2-4708-822d-eb5f20412eb8,challenge.schule,available,19.99,,high,low,9,name.com,,,
@@ -168,7 +168,7 @@ bf91ab80-bedf-455e-ad60-921ee8378a67,theboys.schule,available,19.99,,medium,low,
 a86f14bf-2e7f-40fa-803b-7cf3d7f8e04f,domainname.schule,available,19.99,,high,low,11,name.com,,,
 a8b9d136-d345-401a-92c0-533d5c3cddc0,experience.schule,available,19.99,,high,low,10,name.com,,,
 202b1884-d45c-4c9e-b9e7-882501f7d78e,stat.schule,available,19.99,,high,low,4,name.com,,,
-a3d6614c-058b-4a65-99b6-eef5a4387561,broken.schule,available,19.99,,medium,low,6,name.com,,,
+a3d6614c-058b-4a65-99b6-eef5a4387561,broken.schule,available,29.98,32.98,low,low,6,namecheap,,,23/09/2026 09:56
 d9d8bae9-2a36-4cb7-af40-f48afaa258e1,swerve.schule,available,19.99,,high,low,6,name.com,,,
 76520897-a4cc-4997-a33f-c7801ee11a51,agog.schule,available,19.99,41.99,low,low,4,name.com,,,
 e12a748c-b66e-43c7-b581-2ba12f684e9e,informed.schule,available,19.99,,high,low,8,name.com,,,
@@ -192,7 +192,7 @@ e214926b-ca3b-4a09-8471-e4f690b34819,willingness.schule,available,19.99,,medium,
 5e03e062-0ab6-40b6-9ad8-2741b52220c9,ellen.schule,available,19.99,,high,low,5,name.com,,,
 1b94cc15-51db-42f9-b8ce-bfde43cf82ae,nostrils.schule,available,19.99,,low,low,8,name.com,,,
 4f9ad460-62d2-4896-b985-5dce15fd6c3e,thank.schule,available,19.99,,high,low,5,name.com,,,
-c98c22b6-db90-4ea7-b5a2-ee4f314c8ea2,convenient.schule,available,19.99,,high,low,10,name.com,,,
+c98c22b6-db90-4ea7-b5a2-ee4f314c8ea2,convenient.schule,available,28.99,28.99,medium,low,10,namesilo,,,23/09/2026 15:48
 55b5246f-43e5-4a07-9049-22d1ea38cda7,developer.schule,available,19.99,,high,low,9,name.com,,,
 7b930d28-2628-426a-90e7-ed518ef9ab2b,astomatous.schule,available,19.99,41.99,low,low,10,name.com,,,07/08/2026 09:45
 55b3b3ab-b1cf-444c-b90f-cb1ae9e38aa0,previous.schule,available,19.99,,high,low,8,name.com,,,
@@ -215,10 +215,10 @@ e1970060-2618-4255-8d60-01569358b9e9,shaky.schule,available,19.99,,medium,low,5,
 a8077360-b5e3-4f76-9396-bba939199092,increase.schule,available,19.99,,high,low,8,name.com,,,
 71fb8057-0bb2-4800-ac5a-44d0812381f9,city.schule,available,19.99,,high,medium,4,name.com,,,
 2141eadb-86aa-41c0-ba7e-55a0e47ac172,tide.schule,available,19.99,,high,low,4,name.com,,,
-8b76b083-de3d-4a59-82cb-49b72d2b23a8,blacktea.schule,available,19.99,,high,low,9,name.com,,,
+8b76b083-de3d-4a59-82cb-49b72d2b23a8,blacktea.schule,available,28.99,28.99,low,low,9,namesilo,,,24/09/2026 01:47
 6df00ab0-7ba6-437c-a6de-2559a52485f1,branch.schule,available,19.99,,medium,low,6,name.com,,,
 ff6a1f4d-47fc-4f83-abbf-96a7358d4310,yeah.schule,available,19.99,,high,low,4,name.com,,,
-12f68a6b-cc55-41e6-aa29-8ed19fcdd234,canadian.schule,available,19.99,,high,low,8,name.com,,,
+12f68a6b-cc55-41e6-aa29-8ed19fcdd234,canadian.schule,available,28.99,28.99,low,low,8,namesilo,,,23/09/2026 12:40
 829593a7-1b51-4b95-b5d2-64f7f121dfef,drivethru.schule,available,19.99,,high,low,10,name.com,,,
 c39bd7f2-f33d-47cd-a12e-e004be13aae1,usdollar.schule,available,19.99,,high,low,9,name.com,,,
 f8a91b16-a63d-4ed1-9899-1859f053657b,adequate.schule,available,29.98,32.98,medium,low,8,namecheap,,,21/09/2026 18:22
@@ -263,7 +263,7 @@ bd2d8758-ee4f-436d-baa0-bb65f4924e16,asthecasemaybe.schule,available,19.99,,medi
 93a23e79-d7a8-4047-b7b0-455dd01ba1f3,keepopen.schule,available,19.99,,high,low,9,name.com,,,
 7103fe46-15f8-448f-968f-8e36e54761a3,teamwork.schule,available,19.99,,high,low,8,name.com,,,
 ae8dcc39-7d11-49b5-bc0f-b560270dc42c,adoptable.schule,available,19.99,41.99,low,low,9,name.com,,,
-01166f51-ef31-431d-ae13-0b91ffca5c35,crying.schule,available,19.99,41.99,high,low,6,name.com,,,
+01166f51-ef31-431d-ae13-0b91ffca5c35,crying.schule,available,29.98,32.98,low,low,6,namecheap,,,24/09/2026 02:20
 0e63ad1b-15c9-4453-9b6d-94bdf57fc51d,successes.schule,available,19.99,,low,low,9,name.com,,,
 1588ef13-2436-414d-97d2-b42b5365560d,antiseptic.schule,available,28.99,28.99,medium,low,10,namesilo,,,22/09/2026 06:54
 f488f171-a091-4940-bdca-17499a9ed515,monkey.schule,available,19.99,,medium,low,6,name.com,,,
@@ -277,10 +277,10 @@ fe050287-90e2-4453-9cd6-46ff921ff1b0,stewart.schule,available,19.99,,medium,low,
 0510e1f1-5506-4681-a35d-0a231bad6f2c,fingers.schule,available,19.99,,medium,low,7,name.com,,,
 d55c4d4c-fb84-4822-b574-69d60e9c3a83,valley.schule,available,19.99,,medium,low,6,name.com,,,
 f75d5987-c92b-49c2-b917-1bb537c856cf,sandwich.schule,available,19.99,,high,low,8,name.com,,,
-920b951e-6e33-447a-86f0-7dc2b286e180,bust.schule,available,19.99,,high,low,4,name.com,,,
+920b951e-6e33-447a-86f0-7dc2b286e180,bust.schule,available,28.99,28.99,low,low,4,namesilo,,,23/09/2026 09:51
 27e43c1b-ec1d-4828-8ae5-3ee521d454bc,waste.schule,available,28.99,28.99,low,low,5,namesilo,,,22/09/2026 17:29
 25747752-21cf-44cc-922e-13ee122201ae,blackcomedy.schule,available,19.99,,high,low,12,name.com,,,
-509efc69-69c7-4846-876e-f1bc5bfb940f,experiment.schule,available,19.99,,high,low,10,name.com,,,
+509efc69-69c7-4846-876e-f1bc5bfb940f,experiment.schule,available,28.99,28.99,medium,low,10,namesilo,,,23/09/2026 08:49
 3112d2fd-1884-4dbe-a604-5cb570ee362e,ohio.schule,available,19.99,,high,low,4,name.com,,,
 9d801665-a595-4798-bac4-2bb27db1047a,basaltic.schule,available,19.99,41.99,low,low,8,name.com,,,08/08/2026 21:29
 4e46f1b7-f715-4508-ad35-1bf6edde1041,aeronautic.schule,available,19.99,41.99,low,low,10,name.com,,,
@@ -336,7 +336,7 @@ ec9a8307-946f-4016-903f-8f851e13c745,generaleducation.schule,available,19.99,,hi
 7d16169c-46a1-445b-a82f-b596d953d7bd,xiv.schule,available,28.99,28.99,medium,low,3,namesilo,,,21/09/2026 11:42
 2cc49a03-cb4f-4e94-8257-d0980f4cc50e,returned.schule,available,19.99,,medium,low,8,name.com,,,
 551fca96-2e1a-48ee-b67f-b2722a99c08f,calloff.schule,available,19.99,,medium,low,8,name.com,,,
-13dee235-6e05-45a3-b1c9-cc85aa544200,punk.schule,available,19.99,,high,low,4,name.com,,,
+13dee235-6e05-45a3-b1c9-cc85aa544200,punk.schule,available,28.99,28.99,low,low,4,namesilo,,,23/09/2026 11:14
 62ae539b-47b4-4339-ba40-13f2cb5aa2cf,thirty.schule,available,19.99,41.99,low,low,6,name.com,,,
 958aeeb2-8b8a-4e38-b52e-e4d8c8490d00,motor.schule,available,19.99,,high,low,5,name.com,,,
 3862f2bb-b148-4f7f-bc10-6f7c4e8b4765,tooshie.schule,available,19.99,41.99,low,low,7,name.com,,,09/08/2026 11:39
@@ -379,11 +379,11 @@ e487c2da-bcf4-465a-9877-388117ba2d02,soothing.schule,available,19.99,41.99,low,l
 a1ef3c46-4997-45bd-8fc2-95f9d2bc1f20,basic.schule,available,29.98,32.98,low,low,5,namecheap,,,22/09/2026 17:57
 da8bb7f2-6be2-4d9e-8a8f-94e26a765e27,armlike.schule,available,19.99,41.99,low,low,7,name.com,,,06/08/2026 19:59
 4d60ad07-a753-41b7-be7e-3f547a286460,consensus.schule,available,19.99,,high,low,9,name.com,,,
-7da1a426-7cd4-4a6e-95d8-58008f6a822f,mark.schule,available,19.99,41.99,medium,medium,4,name.com,,,
+7da1a426-7cd4-4a6e-95d8-58008f6a822f,mark.schule,available,19.99,41.99,low,low,4,name.com,,,24/09/2026 01:59
 7edcff1d-5e97-46f7-ab46-79a85f40d393,onehundred.schule,available,19.99,,low,low,11,name.com,,,
 c056b09c-fc51-4e69-a02d-f02055e9079a,nash.schule,available,19.99,,high,low,4,name.com,,,
 37abdca3-afac-4a71-8eb9-76649bf8d9c2,carousing.schule,available,19.99,41.99,low,low,9,name.com,,,08/08/2026 04:24
-7b2243d1-07e1-45b0-b9cb-bf9cee36c05b,bot.schule,premium,123.75,,high,medium,3,name.com,,,
+7b2243d1-07e1-45b0-b9cb-bf9cee36c05b,bot.schule,premium,118.8,118.8,medium,low,3,namesilo,,,23/09/2026 08:05
 b876fc3a-5a1c-4670-a4ce-97184ba6c775,pickuptruck.schule,available,28.99,28.99,low,low,13,namesilo,,,17/09/2026 14:44
 9e51e170-985b-4e91-8bae-b50dbc89e619,ancestor.schule,available,19.99,41.99,medium,low,8,name.com,,,
 847b1886-5f7e-46b2-a751-7d655b91dec2,aslope.schule,available,19.99,41.99,low,low,6,name.com,,,07/08/2026 04:02
@@ -394,9 +394,9 @@ f8437678-3618-4466-a77c-2acc34a9d683,resonating.schule,available,19.99,,medium,l
 ae47580d-72d3-480d-80ec-e4ca8e2e1314,chambers.schule,available,28.99,28.99,medium,low,8,namesilo,,,08/09/2026 06:47
 8be6f366-acec-4113-9e88-d41aa0d88451,steal.schule,available,19.99,,high,low,5,name.com,,,
 8cba1732-60fa-476a-9ca0-50d0b9159c10,anywhere.schule,available,19.99,,high,low,8,name.com,,,
-582a05c4-cfb2-461e-b23c-b45d351985bd,biology.schule,available,19.99,,high,low,7,name.com,,,
+582a05c4-cfb2-461e-b23c-b45d351985bd,biology.schule,available,28.99,28.99,medium,low,7,namesilo,,,24/09/2026 02:45
 5539d240-b7b7-464e-8087-645c5b79d807,mothahfuggah.schule,available,19.99,,medium,low,12,name.com,,,
-3467fdb8-9ef3-492a-8ed9-39a8207da9c8,summary.schule,available,19.99,41.99,high,low,7,name.com,,,
+3467fdb8-9ef3-492a-8ed9-39a8207da9c8,summary.schule,available,28.99,28.99,low,low,7,namesilo,,,23/09/2026 17:08
 fe41cd46-ea34-43ac-9416-22337fd44808,garmented.schule,available,19.99,41.99,low,low,9,name.com,,,06/08/2026 04:57
 a3d01fb5-506b-4653-ab7b-9a7a5e9ebf87,contaminated.schule,available,19.99,,medium,low,12,name.com,,,
 238e57a5-2ff6-4708-8125-ae9ede0a3d4c,echo.schule,available,19.99,,medium,medium,4,name.com,,,
@@ -426,11 +426,11 @@ af133c29-6b1b-4218-a6c3-cee387e519b7,shopworn.schule,available,19.99,41.99,low,l
 537b41fe-16c4-4490-aa1a-d13c38e922fe,division.schule,available,19.99,,medium,low,8,name.com,,,
 81ed83c6-9b77-476f-9525-c86a6cbea887,dinosaur.schule,available,19.99,,high,low,8,name.com,,,
 9d805c33-ec52-42bd-9649-971ce2f80af9,essence.schule,available,19.99,,high,low,7,name.com,,,
-fbd1b7d6-90ac-4e75-928f-9f13aac74618,cosmetic.schule,available,19.99,41.99,high,low,8,name.com,,,
+fbd1b7d6-90ac-4e75-928f-9f13aac74618,cosmetic.schule,available,28.99,28.99,medium,low,8,namesilo,,,24/09/2026 00:13
 389c0831-035e-4795-b868-078dc4f42fb7,godawful.schule,available,19.99,41.99,low,low,9,name.com,,,09/08/2026 05:04
 f98a4ca6-ac1e-45be-949f-280fcd134a14,lowdown.schule,available,19.99,41.99,low,low,8,name.com,,,
 8cf528b6-2250-4655-8c22-d51cb3421883,charles.schule,available,19.99,,high,low,7,name.com,,,
-ea8d318c-6bb2-4cd2-a6c6-9398ed1d50b3,desired.schule,available,19.99,41.99,high,low,7,name.com,,,
+ea8d318c-6bb2-4cd2-a6c6-9398ed1d50b3,desired.schule,available,28.99,28.99,medium,low,7,namesilo,,,24/09/2026 00:57
 309d83dd-3380-461b-acae-ae42c39cb4b8,lowered.schule,available,19.99,,medium,low,7,name.com,,,
 35dc9d59-8702-442d-835e-098a67c0aa77,producing.schule,available,19.99,,low,low,9,name.com,,,
 887913cf-9d4c-4fae-8483-62963f2c7478,gratitude.schule,available,19.99,,high,low,9,name.com,,,
@@ -474,14 +474,14 @@ adbae4c0-a1b8-4e31-9434-09c838490a1f,asking.schule,available,19.99,,high,low,6,n
 a34606d8-62f7-44f4-af2b-b8cd1b281879,algolagnic.schule,available,19.99,41.99,low,low,10,name.com,,,
 e4ca4a3d-5185-4227-8723-841c58a54947,victoria.schule,available,19.99,,high,low,8,name.com,,,
 ea0e3e6d-e68c-494f-8a72-6407cf726abd,outlander.schule,available,19.99,41.99,low,low,9,name.com,,,
-3bea2c69-1ce6-403f-bbb8-4f17a6d5a7a2,instant.schule,available,19.99,41.99,high,low,7,name.com,,,
+3bea2c69-1ce6-403f-bbb8-4f17a6d5a7a2,instant.schule,available,28.99,28.99,medium,low,7,namesilo,,,24/09/2026 02:22
 37324c6c-12b2-4c99-a93a-ae91d0c73a4c,outofdate.schule,available,19.99,,low,low,11,name.com,,,
 bc6b7c2d-6111-467e-aba5-63779a11a06e,muchas.schule,available,19.99,,medium,low,7,name.com,,,
 bf0b1f2d-c104-41c4-922c-eafe0fb5dfec,heavyhanded.schule,available,19.99,,medium,low,12,name.com,,,
 a66f73b4-bfb8-47e1-90c3-4b12e38b845b,oneyearold.schule,available,19.99,,high,low,12,name.com,,,
 732a2272-3757-43c4-9749-afd0d8b1cdbc,starred.schule,available,19.99,41.99,low,low,7,name.com,,,07/08/2026 08:52
-65dbdb61-f748-450c-8505-8e4aa283015c,begin.schule,available,28.99,28.99,medium,low,5,namesilo,,,19/09/2026 05:29
-32cc5513-4741-4bc8-aaef-ba6bfc1a5658,facts.schule,available,29.98,32.98,medium,low,5,namecheap,,,20/09/2026 19:39
+65dbdb61-f748-450c-8505-8e4aa283015c,begin.schule,available,29.98,32.98,medium,low,5,namecheap,,,23/09/2026 09:05
+32cc5513-4741-4bc8-aaef-ba6bfc1a5658,facts.schule,available,28.99,28.99,medium,low,5,namesilo,,,23/09/2026 17:41
 b3e3aaa5-bae6-45c8-97ac-f828dbdff6b5,abysmal.schule,available,19.99,41.99,low,low,7,name.com,,,
 a6ac511a-6901-4e2c-9259-8d7938ba122b,stand.schule,available,19.99,,high,low,5,name.com,,,
 0a49f992-a03b-42a2-bc9d-a4fd6bb89720,bestloved.schule,available,29.98,32.98,medium,low,10,namecheap,,,22/09/2026 20:06
@@ -497,7 +497,7 @@ c47d7e80-59dc-4dfe-910a-ac1a73f75074,better.schule,available,29.98,32.98,medium,
 2fd2ebe1-040c-4e94-a27a-64fa4ad31efb,scorched.schule,available,19.99,41.99,low,low,8,name.com,,,
 e31f1bea-92be-4b24-932c-1462e052ccd5,wool.schule,available,19.99,,medium,low,4,name.com,,,
 d156986d-6181-4050-869d-d6db5439812a,never.schule,available,19.99,,high,low,5,name.com,,,
-42f7032b-c1ca-45ca-8d7b-add54cbf3ca4,criminal.schule,available,19.99,41.99,high,low,8,name.com,,,
+42f7032b-c1ca-45ca-8d7b-add54cbf3ca4,criminal.schule,available,29.98,32.98,low,low,8,namecheap,,,23/09/2026 19:22
 ae71e4f6-6085-4b29-89c6-68ea116ef35f,wrote.schule,available,19.99,,low,low,5,name.com,,,
 1fa9f346-2cfc-44fa-a544-9c0a4d243b91,shorts.schule,available,19.99,,high,low,6,name.com,,,
 2594ee92-cdb5-4b57-b724-bd6548e9b2f7,accentual.schule,available,19.99,41.99,low,low,9,name.com,,,
@@ -515,7 +515,7 @@ d7263fee-1949-425f-bd21-e2fa5afc5c71,airplane.schule,available,19.99,,high,low,8
 c91ca944-5627-4efe-aaa7-f14f3989ea09,select.schule,available,28.99,28.99,medium,low,6,namesilo,,,22/09/2026 23:07
 029e5850-365f-4be4-82cf-d07232e29452,abiding.schule,available,29.98,32.98,medium,low,7,namecheap,,,21/09/2026 13:52
 8ddb5fda-fbba-4fe2-a427-a21bbf69f070,acknowledged.schule,available,19.99,,low,low,12,name.com,,,
-4796d380-d950-411f-9241-368bc174f8df,swollen.schule,available,19.99,41.99,medium,low,7,name.com,,,
+4796d380-d950-411f-9241-368bc174f8df,swollen.schule,available,28.99,28.99,low,low,7,namesilo,,,23/09/2026 18:42
 685eee5b-b3ec-4294-8c69-3c72b243252c,comeupon.schule,available,19.99,,medium,low,9,name.com,,,
 f7889c39-f0c5-4abf-bb26-31adf88985d9,offstage.schule,available,19.99,41.99,medium,low,8,name.com,,,08/08/2026 06:14
 41ba1fcb-99a9-4000-9ef2-977f1578ad67,nebraska.schule,available,19.99,,medium,low,8,name.com,,,
@@ -536,7 +536,7 @@ ca91588a-7182-4285-be0d-140f813da3bc,departure.schule,available,28.99,28.99,medi
 0f02eda2-7c4e-49a2-8552-62be83d6c287,generalpurpose.schule,available,19.99,,medium,low,15,name.com,,,
 c01fe1aa-3079-44c2-83c9-13af2f916d1e,drawing.schule,available,19.99,,high,low,7,name.com,,,
 da7c6cb0-bdcf-49ba-a055-4bc2057b86c6,baffled.schule,available,19.99,41.99,low,low,7,name.com,,,07/08/2026 11:36
-a27140e9-c4d5-48c5-bc12-d63ebd52b023,school.schule,premium,118.8,118.8,medium,low,6,namesilo,,,20/09/2026 03:02
+a27140e9-c4d5-48c5-bc12-d63ebd52b023,school.schule,premium,118.8,118.8,medium,low,6,namesilo,,,23/09/2026 11:06
 522af819-a5de-47e4-a1e4-ed5d30c4c68b,tippingpoint.schule,available,19.99,,high,low,13,name.com,,,
 61d787c5-266d-4eb6-90a7-870542b9f033,wave.schule,available,19.99,,high,medium,4,name.com,,,
 266737f3-4e76-46d2-8745-431154337493,bunch.schule,available,19.99,,medium,low,5,name.com,,,
@@ -546,7 +546,7 @@ a27140e9-c4d5-48c5-bc12-d63ebd52b023,school.schule,premium,118.8,118.8,medium,lo
 86584ca5-57cb-401f-afe9-0aa74bab09c3,surething.schule,available,19.99,,high,low,10,name.com,,,
 aa0289bf-3d92-4178-a7bb-614c8bfdac33,allomerous.schule,available,19.99,41.99,low,low,10,name.com,,,
 dcf02493-fbd3-49e8-9b80-7fd365eab914,rollabout.schule,available,19.99,,low,low,10,name.com,,,
-5b3a596c-45d8-48f7-b5a7-1d09342718c3,drawn.schule,available,19.99,,medium,low,5,name.com,,,
+5b3a596c-45d8-48f7-b5a7-1d09342718c3,drawn.schule,available,29.98,32.98,low,low,5,namecheap,,,23/09/2026 12:57
 479cff31-3889-4f46-aee8-baa657b7739f,bravery.schule,available,19.99,,high,low,7,name.com,,,
 e28d3d76-27bc-40dd-a262-d8a7d18b52f0,fundament.schule,available,19.99,41.99,low,low,9,name.com,,,09/08/2026 10:59
 8af65754-0d1d-4eb7-9efc-a9f55fd09b39,youknow.schule,available,19.99,,high,low,8,name.com,,,
@@ -680,7 +680,7 @@ d8b0a26c-78a1-43c8-94d1-ca8753a07d9e,attainable.schule,available,28.99,28.99,med
 ad039a4c-cdf8-4bac-8263-e4e0c136d7f3,safe.schule,available,19.99,,high,medium,4,name.com,,,
 2789a91d-c5d2-4ed7-852b-86a8e91c1868,fling.schule,available,19.99,,medium,low,5,name.com,,,
 fd290ce3-6b83-480f-ae56-2cc68fb9a9da,vocal.schule,available,19.99,,high,low,5,name.com,,,
-e28a347c-88c5-4726-8046-3e20355189fe,concerned.schule,available,19.99,41.99,medium,low,9,name.com,,,
+e28a347c-88c5-4726-8046-3e20355189fe,concerned.schule,available,29.98,32.98,low,low,9,namecheap,,,23/09/2026 18:58
 3d77e10a-7fe4-49b9-8dd3-4c8100c55d2d,lookthrough.schule,available,19.99,,high,low,12,name.com,,,
 ef33aade-89e3-460b-b9db-d43f5d7cc64c,aureate.schule,available,28.99,28.99,low,low,7,namesilo,,,22/09/2026 12:51
 af461a5f-c39c-4a34-bc24-eb216d908e16,passengerseat.schule,available,19.99,,high,low,14,name.com,,,
@@ -732,7 +732,7 @@ a35f7306-a88d-4459-b4a3-14a057e8e60c,organized.schule,available,19.99,,high,low,
 45fe712b-ab10-4abc-ad0d-abb8f914963b,swallow.schule,available,19.99,,medium,low,7,name.com,,,
 06019ed3-7ab2-477b-9512-5b9e82b3bef7,goforthegold.schule,available,19.99,,high,low,15,name.com,,,
 e848d4d3-f280-45a4-96b8-a7cd0519f0e2,bones.schule,available,19.99,,medium,low,5,name.com,,,
-ce4a3b0a-a9ce-4780-80b2-95245cb2bafe,cute.schule,available,19.99,41.99,high,low,4,name.com,,,
+ce4a3b0a-a9ce-4780-80b2-95245cb2bafe,cute.schule,available,28.99,28.99,medium,low,4,namesilo,,,24/09/2026 03:46
 576815fc-02d1-4419-a5e2-26548ab58c81,prolific.schule,available,19.99,,high,low,8,name.com,,,
 f53ff02f-e678-4e6e-b510-845987e49f65,moderator.schule,available,19.99,,high,low,9,name.com,,,
 34b54e8c-04df-4ba8-a224-20f63a7a4482,veggie.schule,available,29.98,32.98,medium,low,6,namecheap,,,19/09/2026 06:34
@@ -752,7 +752,7 @@ a8f44bb3-3835-482f-a3d1-fe2adeb3e76c,prohibited.schule,available,19.99,41.99,low
 f0a18985-b53e-462f-945e-9e9e88c1ebf3,monthly.schule,available,19.99,,high,low,7,name.com,,,
 5232d391-1522-4fab-ad53-8db21f9d2adc,formless.schule,available,19.99,41.99,low,low,8,name.com,,,
 69f22abb-d7fd-4d7f-93f8-87983f341ae7,noticeable.schule,available,19.99,41.99,medium,low,10,name.com,,,
-8d1b32a3-4fba-4cc3-b493-8c2bae6c7f66,arts.schule,available,28.99,28.99,medium,low,4,namesilo,,,19/09/2026 04:18
+8d1b32a3-4fba-4cc3-b493-8c2bae6c7f66,arts.schule,available,29.98,32.98,medium,low,4,namecheap,,,23/09/2026 06:35
 25dbe9ce-8e7d-41cd-a2bc-c41ce2aca1cc,put.schule,available,19.99,,high,low,3,name.com,,,
 2aa07a3f-7298-47b4-9c32-d4b4c69a0162,grandjury.schule,available,19.99,,medium,low,10,name.com,,,
 c55047b1-f637-4891-9ef6-d9207cd124be,term.schule,available,19.99,,high,low,4,name.com,,,
@@ -765,7 +765,7 @@ ce50ab12-b50c-4a9a-8dd4-c506582b5cd1,sent.schule,available,28.99,28.99,low,low,4
 57d3bec2-0524-4675-b728-56c08a144bca,going.schule,available,19.99,,high,low,5,name.com,,,
 9ec79e34-dd32-48ba-be99-d72b79605ca8,asyndetic.schule,available,19.99,41.99,low,low,9,name.com,,,07/08/2026 10:34
 54176a61-b16f-4309-a77f-110dee64c6f9,meaningful.schule,available,19.99,,high,low,10,name.com,,,
-a9721120-29d1-4d94-98bd-15939eb21846,worn.schule,available,19.99,,medium,low,4,name.com,,,
+a9721120-29d1-4d94-98bd-15939eb21846,worn.schule,available,19.99,41.99,low,low,4,name.com,,,23/09/2026 12:58
 d6f1321d-a42b-40f3-88f3-b114b105169f,engineering.schule,available,28.99,28.99,medium,low,11,namesilo,,,23/09/2026 05:12
 51fa182d-1931-4a47-8efa-7ea5b5d0b131,buffet.schule,available,28.99,28.99,medium,low,6,namesilo,,,19/09/2026 17:05
 25dcb265-bc1b-4725-8f0c-2ada06bc113f,autoerotic.schule,available,19.99,41.99,low,low,10,name.com,,,07/08/2026 20:01
@@ -791,7 +791,7 @@ a35b2fdb-7479-4c4a-a52c-4edd9f76d8c4,closetogether.schule,available,19.99,,mediu
 494e4a2b-7020-4de6-9314-ab81a0425b7b,date.schule,available,19.99,,high,low,4,name.com,,,
 ccffcd85-f99b-4e60-8908-d93eb7067bb5,artimitateslife.schule,available,19.99,,medium,low,17,name.com,,,
 f5b2e8f6-fe66-45cd-9266-d56cdc8362c1,playoff.schule,available,19.99,,high,low,8,name.com,,,
-81b0eafe-4635-4e92-a9e0-3eb17991ffcc,reverse.schule,available,19.99,41.99,high,low,7,name.com,,,
+81b0eafe-4635-4e92-a9e0-3eb17991ffcc,reverse.schule,available,28.99,28.99,medium,low,7,namesilo,,,23/09/2026 22:34
 811e0a80-1800-408f-95f1-88c45c4d543b,rag.schule,available,19.99,41.99,medium,low,3,name.com,,,
 7a7fa3f0-f744-422d-9b01-cd1798c1a619,introduction.schule,available,19.99,,high,low,12,name.com,,,
 f3d2ec90-42df-4398-a003-c6deb2326013,onbase.schule,available,28.99,28.99,low,low,7,namesilo,,,15/09/2026 17:31
@@ -869,7 +869,7 @@ a580b83f-17bd-47e8-a320-6325e4944d22,window.schule,available,19.99,,high,low,6,n
 1a8ca2f3-f617-4161-9e83-7eaff5a27ec2,blurred.schule,available,28.99,28.99,low,low,7,namesilo,,,22/09/2026 23:21
 5cbf8fd0-7346-4e73-a11a-be79b7b43904,vexing.schule,available,19.99,41.99,low,low,6,name.com,,,
 de435e5a-16da-46d9-80d1-edfb713db78a,baleful.schule,available,19.99,41.99,low,low,7,name.com,,,08/08/2026 09:39
-0c86b882-a224-49da-a2bc-d93e04a4294a,masterly.schule,available,19.99,41.99,high,low,8,name.com,,,
+0c86b882-a224-49da-a2bc-d93e04a4294a,masterly.schule,available,29.98,32.98,medium,low,8,namecheap,,,23/09/2026 21:40
 bbbe899b-a710-4be9-8fc6-e74ebc1a4d1f,xciii.schule,available,19.99,41.99,low,low,5,name.com,,,
 d2092971-fb1f-4718-8a51-28e9a17cbed1,steady.schule,available,19.99,,high,low,6,name.com,,,
 eaebe660-46c5-49d2-b45a-51efe4382829,assoonas.schule,available,19.99,,medium,low,10,name.com,,,
@@ -888,7 +888,7 @@ c67df615-c224-4807-b811-38100b106f3f,aqueous.schule,available,19.99,41.99,low,lo
 de08d758-bccb-4726-b780-c9b1c26dd741,dakotacity.schule,available,19.99,,medium,low,11,name.com,,,
 d1289e62-1983-4b79-bfc2-35377f3e64a7,majority.schule,available,19.99,,high,low,8,name.com,,,
 c76a6942-69f0-4f7a-a679-d805bfcd8452,fortified.schule,available,19.99,41.99,low,low,9,name.com,,,09/08/2026 00:17
-7a227287-d5d0-4913-92dd-847ab2d6b3fa,central.schule,available,19.99,,high,low,7,name.com,,,
+7a227287-d5d0-4913-92dd-847ab2d6b3fa,central.schule,available,28.99,28.99,low,low,7,namesilo,,,23/09/2026 12:46
 73b42756-baad-4715-a9a0-b85a7e980883,eddie.schule,available,19.99,,high,low,5,name.com,,,
 c3e49d56-cd41-4225-9609-28bb064fd8dc,bond.schule,available,19.99,,high,low,4,name.com,,,
 5ff83b08-e053-4ffb-bec1-bac02c1eafbd,salmon.schule,available,19.99,,high,low,6,name.com,,,
@@ -908,7 +908,7 @@ e1361709-0194-436e-9de9-2845301930b2,leash.schule,available,19.99,41.99,low,low,
 9037520c-3056-4012-8587-86e18793f4bf,surgicalmask.schule,available,19.99,,high,low,13,name.com,,,
 cea8bb6c-3b9c-4715-88e8-84ed3f0c5a80,defence.schule,available,19.99,,high,low,7,name.com,,,
 da31fca4-ae44-4956-a159-dd8eb3e2f98d,hole.schule,available,19.99,,medium,low,4,name.com,,,
-7ccaa8bf-ef8c-4d91-8eb9-d769d612ceae,comp.schule,available,19.99,41.99,medium,low,4,name.com,,,
+7ccaa8bf-ef8c-4d91-8eb9-d769d612ceae,comp.schule,available,29.98,32.98,low,low,4,namecheap,,,23/09/2026 17:59
 f19a0ed0-a30b-4cad-bb6c-05830f1efeef,substitute.schule,available,28.99,28.99,medium,low,10,namesilo,,,22/09/2026 02:40
 33927f14-d3a0-4e10-ba29-2c67f506d415,borderon.schule,available,19.99,,medium,low,9,name.com,,,
 25cc8f42-5c41-488d-a34f-718d02255304,beads.schule,available,19.99,,high,low,5,name.com,,,
@@ -939,7 +939,7 @@ fe00f188-a9c2-4180-a089-43c94c1940be,cook.schule,available,19.99,,high,low,4,nam
 0d288121-e589-412e-96f9-e0191ce786c4,sunbelt.schule,available,19.99,,high,low,7,name.com,,,
 251752e5-66ea-4b99-9cd4-5d0c50cb84c2,enterontheboards.schule,available,19.99,,medium,low,19,name.com,,,
 2aef25ae-f587-4592-98b4-d43df0d11838,soundlike.schule,available,19.99,,low,low,10,name.com,,,
-c555338b-050b-413e-b402-66a1a94e7cfc,shed.schule,available,19.99,,medium,low,4,name.com,,,
+c555338b-050b-413e-b402-66a1a94e7cfc,shed.schule,available,19.99,41.99,low,low,4,name.com,,,23/09/2026 12:18
 c05a918b-1b24-475d-9f9f-830e3816fdca,quadruplet.schule,available,19.99,41.99,low,low,10,name.com,,,
 f51c1a5c-b6c4-4507-8faa-2706046283a1,arbitral.schule,available,19.99,41.99,low,low,8,name.com,,,06/08/2026 12:48
 3bfe2f24-be8b-480c-b6a1-de8d5679963b,arctic.schule,available,19.99,41.99,low,low,6,name.com,,,06/08/2026 16:07
@@ -950,7 +950,7 @@ f51c1a5c-b6c4-4507-8faa-2706046283a1,arbitral.schule,available,19.99,41.99,low,l
 5013bc8c-ad71-4bb5-ba13-b2ebd279fa9d,disagree.schule,available,19.99,,medium,low,8,name.com,,,
 fbb2b4b6-f585-489b-9480-2aa2ac925651,pies.schule,available,19.99,,medium,low,4,name.com,,,
 ec86671d-e793-44ab-b914-df10f0f95899,disturb.schule,available,19.99,,high,low,7,name.com,,,
-62215ae4-f4f7-4181-aa4c-6113da8e4add,asset.schule,available,28.99,28.99,low,low,5,namesilo,,,19/09/2026 04:01
+62215ae4-f4f7-4181-aa4c-6113da8e4add,asset.schule,available,29.98,32.98,low,low,5,namecheap,,,23/09/2026 06:32
 13a378d3-038b-4432-b825-c8c45c6d596f,airfilled.schule,available,19.99,41.99,low,low,10,name.com,,,
 bebfd7a8-c154-4ccc-a57d-78b2b1ee885d,anabiotic.schule,available,19.99,41.99,low,low,9,name.com,,,
 a640c43a-1f05-4e98-a59f-74d5c61b8da3,acned.schule,available,19.99,41.99,low,low,5,name.com,,,
@@ -964,7 +964,7 @@ abdacc72-4716-4e46-9263-2bffcc5c647f,hardworking.schule,available,19.99,,high,lo
 b96ae6e2-260f-4618-b59f-88918137d3f0,sony.schule,available,,,high,low,4,,,,
 72fb35c0-7de8-4be9-beb1-a035303e1fa3,annalistic.schule,available,,,medium,low,10,,,,
 14192262-8592-4628-931e-e5327e7c4dd6,vexation.schule,available,19.99,41.99,low,low,8,name.com,,,
-855a0937-f5cc-400d-b36e-4a696de3eb15,cinema.schule,available,28.99,28.99,medium,low,6,namesilo,,,19/09/2026 09:58
+855a0937-f5cc-400d-b36e-4a696de3eb15,cinema.schule,available,28.99,28.99,medium,low,6,namesilo,,,23/09/2026 07:48
 1c5bebff-cdf0-43b1-a348-e0b86560e41d,dreamup.schule,available,19.99,,high,low,8,name.com,,,
 45122bc0-3fa7-4c0c-9f0c-390ead191e1a,acceptable.schule,available,28.99,28.99,medium,low,10,namesilo,,,21/09/2026 15:23
 684642e7-ba5d-40a6-b2a7-977e2d8cd07d,blow.schule,available,19.99,41.99,low,low,4,name.com,,,23/09/2026 01:59
